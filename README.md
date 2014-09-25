@@ -1,4 +1,4 @@
 justclonable
 ============
 
-Verzeichnis zum Clonen
+Verzeichnis zum Clonen für Aufgabenblätter.
